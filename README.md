@@ -1,6 +1,7 @@
-# This program was created by papv2 for the purposes of fulfilling a coding task for [redacted].
+*This program was created by papv2 for the purposes of fulfilling a coding task for [redacted].*
 
-*This program is designed to do a few things sequentially:
+**This program is designed to do a few things sequentially:**
+
     pull passwords from a json file (users.json) 
     hash the passwords 
     compare it with passwords from haveibeenpwned's API 
