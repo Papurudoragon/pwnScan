@@ -1,6 +1,3 @@
-"""Using the provided sample JSON below and the haveibeenpwned API, 
-create a program which will provide a report of users with compromised passwords. """
-
 import requests
 import json
 import hashlib
@@ -24,7 +21,7 @@ if not os.path.exists(output_path):
 USER_AGENT = {"user-agent": "Beyond The Frame"}
 
 
-# function to grab password hash to use, sh1 is fine for this
+# function to grab password hash to use, sha1 is fine for this
 def sha1_hash(password):
     sha1 = hashlib.sha1()
     sha1.update(password.encode('utf-8'))
