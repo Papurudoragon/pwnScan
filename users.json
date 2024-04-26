@@ -1,0 +1,71 @@
+[ 
+    { 
+        "_id": "64db78db5b8544889feee5fa", 
+        "index": 0, 
+        "guid": "679c447f-8365-4a95-9c1e-5055540dc688", 
+        "isActive": false, 
+        "credentials": 
+        [ 
+            { 
+        "password": "password123", 
+        "last_changed": "2019-06-26T07:18:46 +04:00" 
+            } 
+        ], 
+        "age": 22,  
+        "eyeColor": "blue", 
+        "name": "Beryl Merritt", 
+        "company": "FILODYNE", 
+        "email": "berylmerritt@filodyne.com", 
+        "phone": "+1 (979) 552-2154", 
+        "address": "690 Vanderveer Place, Bellamy, Wyoming, 2830", 
+        "registered": "2016-01-28T11:09:47 +05:00", 
+        "latitude": 77.76633, 
+        "longitude": 40.651872 
+    },
+    { 
+        "_id": "64db78db5b8544889feee5fb", 
+        "index": 1, 
+        "guid": "679c447f-8365-4a95-9c1e-5055540dc689", 
+        "isActive": false, 
+        "credentials": 
+        [ 
+            { 
+        "password": "letmein123", 
+        "last_changed": "2019-06-26T07:18:56 +04:00" 
+            } 
+        ], 
+        "age": 25,  
+        "eyeColor": "green", 
+        "name": "Test Account", 
+        "company": "hibp-integration-tests.com", 
+        "email": "test@hibp-integration-tests.com", 
+        "phone": "+1 (555) 555-5555", 
+        "address": "123 test street, test_state, USA", 
+        "registered": "2016-01-28T11:09:57 +05:00", 
+        "latitude": 77.76633, 
+        "longitude": 40.651872 
+    },
+    { 
+        "_id": "64db78db5b8544889feee5fc", 
+        "index": 2, 
+        "guid": "679c447f-8365-4a95-9c1e-5055540dc690", 
+        "isActive": false, 
+        "credentials": 
+        [ 
+            { 
+        "password": "dnsadnsjkn@!#$#@#@ndsajdsairuaw", 
+        "last_changed": "2019-06-26T07:18:57 +04:00" 
+            } 
+        ], 
+        "age": 25,  
+        "eyeColor": "green", 
+        "name": "Test Account2", 
+        "company": "hibp-integration-tests.com", 
+        "email": "test2@hibp-integration-tests.com", 
+        "phone": "+1 (555) 555-5555", 
+        "address": "123 test street, test_state, USA", 
+        "registered": "2016-01-28T11:09:57 +05:00", 
+        "latitude": 77.76633, 
+        "longitude": 40.651872 
+    }
+]
